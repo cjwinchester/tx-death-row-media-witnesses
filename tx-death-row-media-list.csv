@@ -59,7 +59,7 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 533,2016-01-27,Stark,Cody,Huntsville Item,999539,Freeman,James,https://www.tdcj.state.tx.us/death_row/dr_info/freemanjames.html
 533,2016-01-27,Graczyk,Michael,Associated Press,999539,Freeman,James,https://www.tdcj.state.tx.us/death_row/dr_info/freemanjames.html
 533,2016-01-27,Crabtree,Shannon,El Campo Leader News,999539,Freeman,James,https://www.tdcj.state.tx.us/death_row/dr_info/freemanjames.html
-533,2016-01-27,John Barned-Smith,St.,Houston Chronicle,999539,Freeman,James,https://www.tdcj.state.tx.us/death_row/dr_info/freemanjames.html
+533,2016-01-27,Barned-Smith,St. John,Houston Chronicle,999539,Freeman,James,https://www.tdcj.state.tx.us/death_row/dr_info/freemanjames.html
 533,2016-01-27,Ptashkin,Samantha,KPRC TV in Houston,999539,Freeman,James,https://www.tdcj.state.tx.us/death_row/dr_info/freemanjames.html
 532,2016-01-20,Stark,Cody,Huntsville Item,999414,Masterson,Richard,https://www.tdcj.state.tx.us/death_row/dr_info/mastersonrichard.html
 532,2016-01-20,Graczyk,Michael,Associated Press,999414,Masterson,Richard,https://www.tdcj.state.tx.us/death_row/dr_info/mastersonrichard.html
@@ -163,7 +163,7 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 509,2014-01-22,Graczyk,Michael,Associated Press,999130,Tamayo,Edgar,https://www.tdcj.state.tx.us/death_row/dr_info/tamayoedgar.jpg
 509,2014-01-22,Turner,Allan,Houston Chronicle,999130,Tamayo,Edgar,https://www.tdcj.state.tx.us/death_row/dr_info/tamayoedgar.jpg
 509,2014-01-22,Arnold,Robert,KPRC-TV Channel 2 in Houston,999130,Tamayo,Edgar,https://www.tdcj.state.tx.us/death_row/dr_info/tamayoedgar.jpg
-509,2014-01-22,Patricia Cantu-Estrada,Maria,Semana News in Houston,999130,Tamayo,Edgar,https://www.tdcj.state.tx.us/death_row/dr_info/tamayoedgar.jpg
+509,2014-01-22,Cantu-Estrada,Maria Patricia,Semana News in Houston,999130,Tamayo,Edgar,https://www.tdcj.state.tx.us/death_row/dr_info/tamayoedgar.jpg
 509,2014-01-22,Rojas,Pedro,Univision 45 in Houston,999130,Tamayo,Edgar,https://www.tdcj.state.tx.us/death_row/dr_info/tamayoedgar.jpg
 508,2013-12-03,Graczyk,Michael,Associated Press,999552,Martin,Jerry,https://www.tdcj.state.tx.us/death_row/dr_info/martinjerry.html
 508,2013-12-03,Stark,Cody,The Huntsville Item,999552,Martin,Jerry,https://www.tdcj.state.tx.us/death_row/dr_info/martinjerry.html
@@ -186,7 +186,7 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 503,2013-07-31,Scott,Brandon,The Huntsville Item,999326,Feldman,Douglas,https://www.tdcj.state.tx.us/death_row/dr_info/feldmandouglas.html
 502,2013-07-18,Graczyk,Michael,Associated Press,999429,Ross,Vaughn,https://www.tdcj.state.tx.us/death_row/dr_info/rossvaughn.html
 502,2013-07-18,Scott,Brandon,The Huntsville Item,999429,Ross,Vaughn,https://www.tdcj.state.tx.us/death_row/dr_info/rossvaughn.html
-502,2013-07-18,Blake Morgan,Sarah,KCBD-Lubbock,999429,Ross,Vaughn,https://www.tdcj.state.tx.us/death_row/dr_info/rossvaughn.html
+502,2013-07-18,Morgan,Sarah Blake,KCBD-Lubbock,999429,Ross,Vaughn,https://www.tdcj.state.tx.us/death_row/dr_info/rossvaughn.html
 502,2013-07-18,Nett,Walt,Lubbock Avalanche Journal,999429,Ross,Vaughn,https://www.tdcj.state.tx.us/death_row/dr_info/rossvaughn.html
 501,2013-07-16,Graczyk,Michael,Associated Press,999491,Quintanilla,John,https://www.tdcj.state.tx.us/death_row/dr_info/quintanillajohn.html
 501,2013-07-16,Stark,Cody,The Huntsville Item,999491,Quintanilla,John,https://www.tdcj.state.tx.us/death_row/dr_info/quintanillajohn.html
@@ -260,12 +260,12 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 479,2012-02-29,Whitely,Jason,WFAA Channel 8-Dallas,999394,Rivas,George,https://www.tdcj.state.tx.us/death_row/dr_info/rivasgeorge.html
 478,2012-01-26,Graczyk,Michael,Associated Press,999474,Hernandez,Rodrigo,https://www.tdcj.state.tx.us/death_row/dr_info/hernandezrodrigo.html
 478,2012-01-26,Stark,Cody,The Huntsville Item,999474,Hernandez,Rodrigo,https://www.tdcj.state.tx.us/death_row/dr_info/hernandezrodrigo.html
-478,2012-01-26,Ruth Moravec,Eva,San Antonio Express-News,999474,Hernandez,Rodrigo,https://www.tdcj.state.tx.us/death_row/dr_info/hernandezrodrigo.html
+478,2012-01-26,Moravec,Eva Ruth,San Antonio Express-News,999474,Hernandez,Rodrigo,https://www.tdcj.state.tx.us/death_row/dr_info/hernandezrodrigo.html
 478,2012-01-26,Saucedo,Jennifer,KABB Fox 29-San Antonio,999474,Hernandez,Rodrigo,https://www.tdcj.state.tx.us/death_row/dr_info/hernandezrodrigo.html
 478,2012-01-26,Beamer,Randy,WOAI Channel 4-San Antonio,999474,Hernandez,Rodrigo,https://www.tdcj.state.tx.us/death_row/dr_info/hernandezrodrigo.html
 477,2011-11-16,Graczyk,Michael,Associated Press,999385,Esparza,Guadalupe,https://www.tdcj.state.tx.us/death_row/dr_info/esparzaguadalupe.html
 477,2011-11-16,Stark,Cody,The Huntsville Item,999385,Esparza,Guadalupe,https://www.tdcj.state.tx.us/death_row/dr_info/esparzaguadalupe.html
-477,2011-11-16,Ruth Moravec,Eva,San Antonio Express-News,999385,Esparza,Guadalupe,https://www.tdcj.state.tx.us/death_row/dr_info/esparzaguadalupe.html
+477,2011-11-16,Moravec,Eva Ruth,San Antonio Express-News,999385,Esparza,Guadalupe,https://www.tdcj.state.tx.us/death_row/dr_info/esparzaguadalupe.html
 476,2011-10-27,Graczyk,Michael,Associated Press,999418,Garcia,Frank,https://www.tdcj.state.tx.us/death_row/dr_info/garciafrank.html
 476,2011-10-27,Stark,Cody,The Huntsville Item,999418,Garcia,Frank,https://www.tdcj.state.tx.us/death_row/dr_info/garciafrank.html
 476,2011-10-27,Mondo,Michelle,San Antonio Express-News,999418,Garcia,Frank,https://www.tdcj.state.tx.us/death_row/dr_info/garciafrank.html
@@ -463,7 +463,7 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 411,2008-08-07,Edwards,Kristen,The Huntsville Item,999437,Chi,Heliberto,https://www.tdcj.state.tx.us/death_row/dr_info/chiheliberto.html
 411,2008-08-07,Moritz,John,Fort Worth Star-Telegram,999437,Chi,Heliberto,https://www.tdcj.state.tx.us/death_row/dr_info/chiheliberto.html
 411,2008-08-07,Avila,Vigilio,Univision Channel 23 Dallas,999437,Chi,Heliberto,https://www.tdcj.state.tx.us/death_row/dr_info/chiheliberto.html
-411,2008-08-07,Carlos Rivera,Juan,Diario Tiempo,999437,Chi,Heliberto,https://www.tdcj.state.tx.us/death_row/dr_info/chiheliberto.html
+411,2008-08-07,Rivera,Juan Carlos,Diario Tiempo,999437,Chi,Heliberto,https://www.tdcj.state.tx.us/death_row/dr_info/chiheliberto.html
 410,2008-08-05,Graczyk,Michael,Associated Press,999134,Medellin,Jose,https://www.tdcj.state.tx.us/death_row/dr_info/medellinjose.jpg
 410,2008-08-05,Edwards,Kristen,The Huntsville Item,999134,Medellin,Jose,https://www.tdcj.state.tx.us/death_row/dr_info/medellinjose.jpg
 410,2008-08-05,Turner,Allan,The Houston Chronicle,999134,Medellin,Jose,https://www.tdcj.state.tx.us/death_row/dr_info/medellinjose.jpg
@@ -609,7 +609,7 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 366,2006-06-06,Lacy,Brian,The Huntsville Item,999078,Titsworth, Timothy,https://www.tdcj.state.tx.us/death_row/dr_info/titsworthtimothy.jpg
 365,2006-05-24,Lozano,Juan,Associated Press,999191,Aguilar,Jesus,https://www.tdcj.state.tx.us/death_row/dr_info/aguilarjesus.jpg
 365,2006-05-24,Brock,Tori,The Huntsville Item,999191,Aguilar,Jesus,https://www.tdcj.state.tx.us/death_row/dr_info/aguilarjesus.jpg
-365,2006-05-24,Del Valle,Fernando,The Valley Morning Star,999191,Aguilar,Jesus,https://www.tdcj.state.tx.us/death_row/dr_info/aguilarjesus.jpg
+365,2006-05-24,Valle,Fernando Del,The Valley Morning Star,999191,Aguilar,Jesus,https://www.tdcj.state.tx.us/death_row/dr_info/aguilarjesus.jpg
 365,2006-05-24,Bogan,Jesse,San Antonio Express News,999191,Aguilar,Jesus,https://www.tdcj.state.tx.us/death_row/dr_info/aguilarjesus.jpg
 364,2006-05-17,Lacy,Brian,The Huntsville Item,999304,Herron, Jermaine,https://www.tdcj.state.tx.us/death_row/dr_info/herronjermaine.html
 364,2006-05-17,Lozano,Juan,Associated Press,999304,Herron, Jermaine,https://www.tdcj.state.tx.us/death_row/dr_info/herronjermaine.html
@@ -793,7 +793,7 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 314,2004-01-06,Haldeman,Charlie,KBTX Channel 3,999387,Matthews,Ynobe,https://www.tdcj.state.tx.us/death_row/dr_info/matthewsynobe.html
 313,2003-12-04,Graczyk,Michael,Associated Press,989,Murphy,Ivan,https://www.tdcj.state.tx.us/death_row/dr_info/murphyivan.jpg
 313,2003-12-04,Lacy,Brian,The Huntsville Item,989,Murphy,Ivan,https://www.tdcj.state.tx.us/death_row/dr_info/murphyivan.jpg
-313,2003-12-04,Jane Parmer,Mary,Sherman Herald Democrat,989,Murphy,Ivan,https://www.tdcj.state.tx.us/death_row/dr_info/murphyivan.jpg
+313,2003-12-04,Parmer,Mary Jane,Sherman Herald Democrat,989,Murphy,Ivan,https://www.tdcj.state.tx.us/death_row/dr_info/murphyivan.jpg
 312,2003-12-03,Graczyk,Michael,Associated Press,999153,Duncan,Richard,https://www.tdcj.state.tx.us/death_row/dr_info/duncanrichard.jpg
 312,2003-12-03,Rowe,Tori,The Huntsville Item,999153,Duncan,Richard,https://www.tdcj.state.tx.us/death_row/dr_info/duncanrichard.jpg
 312,2003-12-03,Markley,Melanie,Houston Chronicle,999153,Duncan,Richard,https://www.tdcj.state.tx.us/death_row/dr_info/duncanrichard.jpg
@@ -1063,7 +1063,7 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 240,2001-01-09,Graczyk,Michael,Associated Press,994,Clark,Jack,https://www.tdcj.state.tx.us/death_row/dr_info/clarkjack.jpg
 240,2001-01-09,Lyons,Michelle,Huntsville Item,994,Clark,Jack,https://www.tdcj.state.tx.us/death_row/dr_info/clarkjack.jpg
 240,2001-01-09,Langton,Beth,Lubbock Avalanche Journal,994,Clark,Jack,https://www.tdcj.state.tx.us/death_row/dr_info/clarkjack.jpg
-240,2001-01-09,A. Klotzman,Jeffery,Fox 34 News,994,Clark,Jack,https://www.tdcj.state.tx.us/death_row/dr_info/clarkjack.jpg
+240,2001-01-09,Klotzman,Jeffery A.,Fox 34 News,994,Clark,Jack,https://www.tdcj.state.tx.us/death_row/dr_info/clarkjack.jpg
 239,2000-12-07,Graczyk,Michael,Associated Press,980,Jones,Claude,https://www.tdcj.state.tx.us/death_row/dr_info/jonesclaude.jpg
 239,2000-12-07,Lyons,Michelle,Huntsville Item,980,Jones,Claude,https://www.tdcj.state.tx.us/death_row/dr_info/jonesclaude.jpg
 239,2000-12-07,Roberts,Dan,KSAM Huntsville,980,Jones,Claude,https://www.tdcj.state.tx.us/death_row/dr_info/jonesclaude.jpg
@@ -1117,7 +1117,7 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 227,2000-08-09,Sorge,Wayne,United Press International,954,Cruz,Oliver,https://www.tdcj.state.tx.us/death_row/dr_info/cruzoliver.jpg
 227,2000-08-09,Escamilla,Randy,KMOL,954,Cruz,Oliver,https://www.tdcj.state.tx.us/death_row/dr_info/cruzoliver.jpg
 227,2000-08-09,Dorsett,Amy,San Antonio Express News,954,Cruz,Oliver,https://www.tdcj.state.tx.us/death_row/dr_info/cruzoliver.jpg
-226,2000-08-09,Lee Grant,Mary,Associated Press,886,Roberson,Brian,https://www.tdcj.state.tx.us/death_row/dr_info/robersonbrian.jpg
+226,2000-08-09,Grant,Mary Lee,Associated Press,886,Roberson,Brian,https://www.tdcj.state.tx.us/death_row/dr_info/robersonbrian.jpg
 226,2000-08-09,Lyons,Michelle,Huntsville Item,886,Roberson,Brian,https://www.tdcj.state.tx.us/death_row/dr_info/robersonbrian.jpg
 226,2000-08-09,Sorge,Wayne,United Press International,886,Roberson,Brian,https://www.tdcj.state.tx.us/death_row/dr_info/robersonbrian.jpg
 226,2000-08-09,Stoler,Steve,Fox 4,886,Roberson,Brian,https://www.tdcj.state.tx.us/death_row/dr_info/robersonbrian.jpg
@@ -1207,7 +1207,7 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 209,2000-03-01,Clements,Steve,Wichita Falls Times Record News,998,"Barnes, Jr.",Odell,https://www.tdcj.state.tx.us/death_row/dr_info/barnesodell.jpg
 208,2000-02-24,Lyons,Michelle,Huntsville Item,810,Beets,Betty,https://www.tdcj.state.tx.us/death_row/dr_info/beetsbetty.jpg
 208,2000-02-24,Sorge,Wayne,United Press International,810,Beets,Betty,https://www.tdcj.state.tx.us/death_row/dr_info/beetsbetty.jpg
-208,2000-02-24,Jeanette Brown,Ann,KETK - Region 56,810,Beets,Betty,https://www.tdcj.state.tx.us/death_row/dr_info/beetsbetty.jpg
+208,2000-02-24,Brown,Ann Jeanette,KETK - Region 56,810,Beets,Betty,https://www.tdcj.state.tx.us/death_row/dr_info/beetsbetty.jpg
 208,2000-02-24,Bass,Gary,Athens Daily Review,810,Beets,Betty,https://www.tdcj.state.tx.us/death_row/dr_info/beetsbetty.jpg
 207,2000-02-23,Graczyk,Michael,Associated Press,912,Goss,Cornelius,https://www.tdcj.state.tx.us/death_row/dr_info/gosscornelius.jpg
 207,2000-02-23,Lyons,Michelle,Huntsville Item,912,Goss,Cornelius,https://www.tdcj.state.tx.us/death_row/dr_info/gosscornelius.jpg
@@ -1348,8 +1348,8 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 173,1999-03-30,Graczyk,Michael,Associated Press,511,White,Excell,https://www.tdcj.state.tx.us/death_row/dr_info/whiteexcell.jpg
 173,1999-03-30,Sorge,Wayne,United Press International,511,White,Excell,https://www.tdcj.state.tx.us/death_row/dr_info/whiteexcell.jpg
 173,1999-03-30,Hilburn,Jacque,The McKinney Courier-Gazette,511,White,Excell,https://www.tdcj.state.tx.us/death_row/dr_info/whiteexcell.jpg
-173,1999-03-30,"
-    Steve Stoler",Gazette,KDFW TV,511,White,Excell,https://www.tdcj.state.tx.us/death_row/dr_info/whiteexcell.jpg
+173,1999-03-30,Stoler,"Gazette 
+    Steve",KDFW TV,511,White,Excell,https://www.tdcj.state.tx.us/death_row/dr_info/whiteexcell.jpg
 172,1999-03-26,Gideon,Leigh-Anne,Huntsville Item,721,Rector,Charles,https://www.tdcj.state.tx.us/death_row/dr_info/rectorcharles.jpg
 172,1999-03-26,Graczyk,Michael,Associated Press,721,Rector,Charles,https://www.tdcj.state.tx.us/death_row/dr_info/rectorcharles.jpg
 172,1999-03-26,Sorge,Wayne,United Press International,721,Rector,Charles,https://www.tdcj.state.tx.us/death_row/dr_info/rectorcharles.jpg
@@ -1415,7 +1415,7 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 159,1998-10-01,Arrillaga,Pauline,Associated Press,999061,Cruz,Javier,https://www.tdcj.state.tx.us/death_row/dr_info/cruzjavier.jpg
 159,1998-10-01,Sorge,Wayne,United Press International,999061,Cruz,Javier,https://www.tdcj.state.tx.us/death_row/dr_info/cruzjavier.jpg
 159,1998-10-01,Flores,Matt,San Antonio Express News,999061,Cruz,Javier,https://www.tdcj.state.tx.us/death_row/dr_info/cruzjavier.jpg
-159,1998-10-01,De Los Santos,Diane,KMOL TV,999061,Cruz,Javier,https://www.tdcj.state.tx.us/death_row/dr_info/cruzjavier.jpg
+159,1998-10-01,Santos,Diane De Los,KMOL TV,999061,Cruz,Javier,https://www.tdcj.state.tx.us/death_row/dr_info/cruzjavier.jpg
 158,1998-08-23,Gideon,Leigh-Anne,Huntsville Item,770,Castillo,David,https://www.tdcj.state.tx.us/death_row/dr_info/castillodavid.jpg
 158,1998-08-23,Arrillaga,Pauline,Associated Press,770,Castillo,David,https://www.tdcj.state.tx.us/death_row/dr_info/castillodavid.jpg
 158,1998-08-23,Sorge,Wayne,United Press International,770,Castillo,David,https://www.tdcj.state.tx.us/death_row/dr_info/castillodavid.jpg
@@ -1514,7 +1514,7 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 136,1997-09-30,Graczyk,Michael,Associated Press,854,Cockrum,John,https://www.tdcj.state.tx.us/death_row/dr_info/cockrumjohn.jpg
 136,1997-09-30,Sorge,Wayne,United Press International,854,Cockrum,John,https://www.tdcj.state.tx.us/death_row/dr_info/cockrumjohn.jpg
 136,1997-09-30,Curry,Vanessa,Tyler Morning Telegraph,854,Cockrum,John,https://www.tdcj.state.tx.us/death_row/dr_info/cockrumjohn.jpg
-136,1997-09-30,Bosc McDermott,Lisa,Texarkana Gazette,854,Cockrum,John,https://www.tdcj.state.tx.us/death_row/dr_info/cockrumjohn.jpg
+136,1997-09-30,McDermott,Lisa Bosc,Texarkana Gazette,854,Cockrum,John,https://www.tdcj.state.tx.us/death_row/dr_info/cockrumjohn.jpg
 135,1997-09-25,Duncan,Tracy,Huntsville Item,999187,Stone,Benjamin,https://www.tdcj.state.tx.us/death_row/dr_info/stonebenjamin.jpg
 135,1997-09-25,Graczyk,Michael,Associated Press,999187,Stone,Benjamin,https://www.tdcj.state.tx.us/death_row/dr_info/stonebenjamin.jpg
 135,1997-09-25,Sorge,Wayne,United Press International,999187,Stone,Benjamin,https://www.tdcj.state.tx.us/death_row/dr_info/stonebenjamin.jpg
@@ -1593,7 +1593,7 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 119,1997-05-19,Jackson,Jenna,Huntsville Item,846,Drinkard,Richard,https://www.tdcj.state.tx.us/death_row/dr_info/drinkardrichard.jpg
 119,1997-05-19,Graczyk,Michael,Associated Press,846,Drinkard,Richard,https://www.tdcj.state.tx.us/death_row/dr_info/drinkardrichard.jpg
 119,1997-05-19,Sorge,Wayne,United Press International,846,Drinkard,Richard,https://www.tdcj.state.tx.us/death_row/dr_info/drinkardrichard.jpg
-119,1997-05-19,Howe Verhovek,Same,New York Times,846,Drinkard,Richard,https://www.tdcj.state.tx.us/death_row/dr_info/drinkardrichard.jpg
+119,1997-05-19,Verhovek,Same Howe,New York Times,846,Drinkard,Richard,https://www.tdcj.state.tx.us/death_row/dr_info/drinkardrichard.jpg
 119,1997-05-19,Kinkle,Rolf,Focus Magazine,846,Drinkard,Richard,https://www.tdcj.state.tx.us/death_row/dr_info/drinkardrichard.jpg
 118,1997-05-16,Jackson,Jenna,Huntsville Item,841,Belyeu,Clifton,https://www.tdcj.state.tx.us/death_row/dr_info/belyeuclifton.jpg
 118,1997-05-16,Graczyk,Michael,Associated Press,841,Belyeu,Clifton,https://www.tdcj.state.tx.us/death_row/dr_info/belyeuclifton.jpg
@@ -1604,7 +1604,7 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 117,1997-05-13,Graczyk,Michael,Associated Press,797,Westley,Anthony,https://www.tdcj.state.tx.us/death_row/dr_info/westleyanthony.jpg
 117,1997-05-13,Sorge,Wayne,United Press International,797,Westley,Anthony,https://www.tdcj.state.tx.us/death_row/dr_info/westleyanthony.jpg
 117,1997-05-13,McVicker,Steve,The Houston Press,797,Westley,Anthony,https://www.tdcj.state.tx.us/death_row/dr_info/westleyanthony.jpg
-117,1997-05-13,David Taylor,C.,The Sheldon Tribune,797,Westley,Anthony,https://www.tdcj.state.tx.us/death_row/dr_info/westleyanthony.jpg
+117,1997-05-13,Taylor,C. David,The Sheldon Tribune,797,Westley,Anthony,https://www.tdcj.state.tx.us/death_row/dr_info/westleyanthony.jpg
 116,1997-05-06,Jackson,Jenna,Huntsville Item,884,Washington,Terry,https://www.tdcj.state.tx.us/death_row/dr_info/washingtonterry.jpg
 116,1997-05-06,Thompson,Joan,Associated Press,884,Washington,Terry,https://www.tdcj.state.tx.us/death_row/dr_info/washingtonterry.jpg
 116,1997-05-06,Sorge,Wayne,United Press International,884,Washington,Terry,https://www.tdcj.state.tx.us/death_row/dr_info/washingtonterry.jpg
@@ -1643,7 +1643,7 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 108,1997-02-10,Graczyk,Michael,Associated Press,899,"Brimage, Jr.",Richard,https://www.tdcj.state.tx.us/death_row/dr_info/brimagerichard.jpg
 108,1997-02-10,Sorge,Wayne,United Press International,899,"Brimage, Jr.",Richard,https://www.tdcj.state.tx.us/death_row/dr_info/brimagerichard.jpg
 108,1997-02-10,Flares,Lilly,KIII TV,899,"Brimage, Jr.",Richard,https://www.tdcj.state.tx.us/death_row/dr_info/brimagerichard.jpg
-108,1997-02-10,Ann Barnhardt,Lee,Kingsville Record,899,"Brimage, Jr.",Richard,https://www.tdcj.state.tx.us/death_row/dr_info/brimagerichard.jpg
+108,1997-02-10,Barnhardt,Lee Ann,Kingsville Record,899,"Brimage, Jr.",Richard,https://www.tdcj.state.tx.us/death_row/dr_info/brimagerichard.jpg
 107,1996-09-18,Jackson,Jenna,Huntsville Item,999177,"Gonzales, Jr.",Joe,https://www.tdcj.state.tx.us/death_row/dr_info/gonzalesjoe.jpg
 107,1996-09-18,Graczyk,Michael,Associated Press,999177,"Gonzales, Jr.",Joe,https://www.tdcj.state.tx.us/death_row/dr_info/gonzalesjoe.jpg
 107,1996-09-18,Sorge,Wayne,United Press International,999177,"Gonzales, Jr.",Joe,https://www.tdcj.state.tx.us/death_row/dr_info/gonzalesjoe.jpg
@@ -1750,7 +1750,7 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 32,1989-09-20,Griffith,Lanny,KLOL Radio,752,Paster,James,https://www.tdcj.state.tx.us/death_row/dr_info/pasterjames.jpg
 17,1986-08-22,Schlangenstein,Mary,United Press International,643,Smith,Larry,https://www.tdcj.state.tx.us/death_row/dr_info/smithlarry.jpg
 17,1986-08-22,Rendon,Ruth,Associated Press,643,Smith,Larry,https://www.tdcj.state.tx.us/death_row/dr_info/smithlarry.jpg
-17,1986-08-22,Scott Bertling,Terry,Huntsville Item,643,Smith,Larry,https://www.tdcj.state.tx.us/death_row/dr_info/smithlarry.jpg
+17,1986-08-22,Bertling,Terry Scott,Huntsville Item,643,Smith,Larry,https://www.tdcj.state.tx.us/death_row/dr_info/smithlarry.jpg
 17,1986-08-22,Dickinson,J.D.,KKNX Radio,643,Smith,Larry,https://www.tdcj.state.tx.us/death_row/dr_info/smithlarry.jpg
 16,1986-08-20,Dittrick,Paula,United Press International,646,Woolls,Randy,https://www.tdcj.state.tx.us/death_row/dr_info/woollsrandy.jpg
 16,1986-08-20,Graczyk,Michael,Associated Press,646,Woolls,Randy,https://www.tdcj.state.tx.us/death_row/dr_info/woollsrandy.jpg
@@ -1759,12 +1759,12 @@ execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no
 16,1986-08-20,Watson,Brad,WFAA - Channel 8,646,Woolls,Randy,https://www.tdcj.state.tx.us/death_row/dr_info/woollsrandy.jpg
 13,1986-05-15,Schlangenstein,Mary,United Press International,686,Pinkerton,Jay,https://www.tdcj.state.tx.us/death_row/dr_info/pinkertonjay.jpg
 13,1986-05-15,Tolley,Laura,Associated Press,686,Pinkerton,Jay,https://www.tdcj.state.tx.us/death_row/dr_info/pinkertonjay.jpg
-13,1986-05-15,Scott Bertling,Terry,Huntsville Item,686,Pinkerton,Jay,https://www.tdcj.state.tx.us/death_row/dr_info/pinkertonjay.jpg
+13,1986-05-15,Bertling,Terry Scott,Huntsville Item,686,Pinkerton,Jay,https://www.tdcj.state.tx.us/death_row/dr_info/pinkertonjay.jpg
 13,1986-05-15,Salens,Dave,Beaumont Enterprise,686,Pinkerton,Jay,https://www.tdcj.state.tx.us/death_row/dr_info/pinkertonjay.jpg
 13,1986-05-15,Plante,Daniel,KTVV TV Austin,686,Pinkerton,Jay,https://www.tdcj.state.tx.us/death_row/dr_info/pinkertonjay.jpg
 12,1986-04-16,Dittrick,Paula,United Press International,714,Barney,Jeffery,https://www.tdcj.state.tx.us/death_row/dr_info/barneyjeffery.jpg
 12,1986-04-16,Graczyk,Michael,Associated Press,714,Barney,Jeffery,https://www.tdcj.state.tx.us/death_row/dr_info/barneyjeffery.jpg
-12,1986-04-16,Scott Bertling,Terry,Huntsville Item,714,Barney,Jeffery,https://www.tdcj.state.tx.us/death_row/dr_info/barneyjeffery.jpg
+12,1986-04-16,Bertling,Terry Scott,Huntsville Item,714,Barney,Jeffery,https://www.tdcj.state.tx.us/death_row/dr_info/barneyjeffery.jpg
 12,1986-04-16,Spaulding,Leslie,Denton Record Chronicle,714,Barney,Jeffery,https://www.tdcj.state.tx.us/death_row/dr_info/barneyjeffery.jpg
 12,1986-04-16,Bruce,Philip,KHOU TV,714,Barney,Jeffery,https://www.tdcj.state.tx.us/death_row/dr_info/barneyjeffery.jpg
-1,1982-12-07,J. Reavis,Dick,Texas Monthly,592,"Brooks, Jr.",Charlie,https://www.tdcj.state.tx.us/death_row/dr_info/brookscharlie.html
+1,1982-12-07,Reavis,Dick J.,Texas Monthly,592,"Brooks, Jr.",Charlie,https://www.tdcj.state.tx.us/death_row/dr_info/brookscharlie.html
