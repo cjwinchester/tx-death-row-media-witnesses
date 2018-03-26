@@ -10,6 +10,11 @@ from clean_journo import fixes
 URL = 'https://www.tdcj.state.tx.us/death_row/dr_media_witness_list.html'
 
 r = requests.get(URL)
+try:
+    r.raise_for_status()
+except Exception as e:
+    print('There was a problem: {}'.format(e))
+
 table = BeautifulSoup(r.text, 'html.parser').find('table')
 
 with open('tx-death-row-media-list.csv', 'w') as outfile:
