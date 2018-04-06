@@ -4,7 +4,7 @@ from datetime import date
 import requests
 from bs4 import BeautifulSoup
 
-from clean_journo import fixes
+from fixes import journo_fixes
 
 
 URL = 'https://www.tdcj.state.tx.us/death_row/dr_media_witness_list.html'
@@ -16,6 +16,8 @@ except Exception as e:
     print('There was a problem: {}'.format(e))
 
 table = BeautifulSoup(r.text, 'html.parser').find('table')
+
+s = set()
 
 with open('tx-death-row-media-list.csv', 'w') as outfile:
     fields = ['execution_no', 'execution_date', 'journo_last',
@@ -38,9 +40,10 @@ with open('tx-death-row-media-list.csv', 'w') as outfile:
         media_list = [x.strip() for x in cells[6].string.split(';')
                       if x.strip()]
         for journo in media_list:
-            for x in fixes:
-                journo = journo.replace(x, fixes[x])
-            journo_affiliation = journo.split(',')[1].strip()
+            for x in journo_fixes:
+                journo = journo.replace(*x)
+            journo_affiliation = journo.rsplit(',', 1)[1].strip()
+            s.add(journo_affiliation)
             journo_name = journo.split(',')[0].strip()
             journo_rest, journo_last = journo_name.rsplit(' ', 1)
             writer.writerow({
@@ -54,3 +57,6 @@ with open('tx-death-row-media-list.csv', 'w') as outfile:
                 'inmate_last': inmate_last,
                 'url': url
             })
+
+for x in sorted(s):
+    print(x)
