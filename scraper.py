@@ -57,6 +57,3 @@ with open('tx-death-row-media-list.csv', 'w') as outfile:
                 'inmate_last': inmate_last,
                 'url': url
             })
-
-for x in sorted(s):
-    print(x)
