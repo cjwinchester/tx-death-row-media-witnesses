@@ -1,4 +1,12 @@
 execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no,inmate_last,inmate_rest,url
+555,2018-09-27,Graczyk,Michael,Associated Press,999381,Acker,Daniel,https://www.tdcj.state.tx.us/death_row/dr_info/ackerdaniel.html
+555,2018-09-27,Brown,Joseph,Huntsville Item,999381,Acker,Daniel,https://www.tdcj.state.tx.us/death_row/dr_info/ackerdaniel.html
+555,2018-09-27,Parker,Tashana,CBS-19 Tyler,999381,Acker,Daniel,https://www.tdcj.state.tx.us/death_row/dr_info/ackerdaniel.html
+554,2018-09-26,Graczyk,Michael,Associated Press,999351,Clark,Troy,https://www.tdcj.state.tx.us/death_row/dr_info/clarktroy.html
+554,2018-09-26,Brown,Joseph,Huntsville Item,999351,Clark,Troy,https://www.tdcj.state.tx.us/death_row/dr_info/clarktroy.html
+554,2018-09-26,Gleiser,Paul,KTBB-FM Tyler,999351,Clark,Troy,https://www.tdcj.state.tx.us/death_row/dr_info/clarktroy.html
+554,2018-09-26,Parker,Tashana,KYTX-TV Tyler,999351,Clark,Troy,https://www.tdcj.state.tx.us/death_row/dr_info/clarktroy.html
+554,2018-09-26,Pierce,Daniel,KETK-TV Tyler,999351,Clark,Troy,https://www.tdcj.state.tx.us/death_row/dr_info/clarktroy.html
 553,2018-07-17,Graczyk,Michael,Associated Press,999508,Young,Christopher,https://www.tdcj.state.tx.us/death_row/dr_info/youngchristopher.html
 553,2018-07-17,Stark,Cody,Huntsville Item,999508,Young,Christopher,https://www.tdcj.state.tx.us/death_row/dr_info/youngchristopher.html
 553,2018-07-17,Eaton,Emily,San Antonio Express-News,999508,Young,Christopher,https://www.tdcj.state.tx.us/death_row/dr_info/youngchristopher.html
