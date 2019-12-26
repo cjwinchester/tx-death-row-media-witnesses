@@ -1,4 +1,9 @@
 execution_no,execution_date,journo_last,journo_rest,journo_affiliation,inmate_no,inmate_last,inmate_rest,url
+567,2019-12-11,Graczyk,Michael,Associated Press,999505,Runnels,Travis,https://www.tdcj.state.tx.us/death_row/dr_info/runnelstravis.html
+567,2019-12-11,Brown,Joseph,Huntsville Item,999505,Runnels,Travis,https://www.tdcj.state.tx.us/death_row/dr_info/runnelstravis.html
+566,2019-11-06,Graczyk,Michael,Associated Press,999497,Hall,Justen,https://www.tdcj.state.tx.us/death_row/dr_info/halljusten.html
+566,2019-11-06,Brown,Joseph,Huntsville Item,999497,Hall,Justen,https://www.tdcj.state.tx.us/death_row/dr_info/halljusten.html
+566,2019-11-06,Barajas,Michael,Texas Observer,999497,Hall,Justen,https://www.tdcj.state.tx.us/death_row/dr_info/halljusten.html
 565,2019-09-25,Graczyk,Michael,Associated Press,999542,Sparks,Robert,https://www.tdcj.state.tx.us/death_row/dr_info/sparksrobert.html
 565,2019-09-25,Brown,Joseph,Huntsville Item,999542,Sparks,Robert,https://www.tdcj.state.tx.us/death_row/dr_info/sparksrobert.html
 564,2019-09-10,Graczyk,Michael,Associated Press,999571,Soliz,Mark,https://www.tdcj.state.tx.us/death_row/dr_info/solizmarkanthony.html
