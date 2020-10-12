@@ -9,11 +9,8 @@ from fixes import journo_fixes
 
 URL = 'https://www.tdcj.state.tx.us/death_row/dr_media_witness_list.html'
 
-r = requests.get(URL)
-try:
-    r.raise_for_status()
-except Exception as e:
-    print('There was a problem: {}'.format(e))
+r = requests.get(URL, verify=False)
+r.raise_for_status()
 
 table = BeautifulSoup(r.text, 'html.parser').find('table')
 
