@@ -2,12 +2,16 @@ import csv
 from datetime import date
 
 import requests
+from requests.packages.urllib3.exceptions import InsecureRequestWarning
 from bs4 import BeautifulSoup
 
 from fixes import journo_fixes
 
 
-URL = 'https://www.tdcj.state.tx.us/death_row/dr_media_witness_list.html'
+requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
+
+
+URL = 'http://www.tdcj.state.tx.us/death_row/dr_media_witness_list.html'
 
 r = requests.get(URL, verify=False)
 r.raise_for_status()
