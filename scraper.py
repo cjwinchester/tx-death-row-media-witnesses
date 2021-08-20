@@ -43,10 +43,15 @@ with open('tx-death-row-media-list.csv', 'w') as outfile:
         for journo in media_list:
             for x in journo_fixes:
                 journo = journo.replace(*x)
-            journo_affiliation = journo.rsplit(',', 1)[1].strip()
-            s.add(journo_affiliation)
-            journo_name = journo.split(',')[0].strip()
-            journo_rest, journo_last = journo_name.rsplit(' ', 1)
+            try:
+                journo_affiliation = journo.rsplit(',', 1)[1].strip()
+                s.add(journo_affiliation)
+                journo_name = journo.split(',')[0].strip()
+                journo_rest, journo_last = journo_name.rsplit(' ', 1)
+            except IndexError:
+                journo_last = journo
+                journo_rest = None
+                journo_affiliation = None
             writer.writerow({
                 'execution_no': execution_no,
                 'execution_date': execution_date,
