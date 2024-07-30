@@ -1,4 +1,10 @@
 execution_number,execution_date,journalist_name_last,journalist_name_rest,journalist_affiliation,inmate_number,inmate_name_last,inmate_name_rest,url
+588,2024-06-26,Graczyk,Michael,Associated Press,999513,Gonzales,Ramiro,
+588,2024-06-26,Poe,Brenda,Huntsville Item,999513,Gonzales,Ramiro,
+588,2024-06-26,Davies,David,Texas Public Radio,999513,Gonzales,Ramiro,
+587,2024-02-28,Graczyk,Michael,Associated Press,999399,Cantu,Ivan,
+587,2024-02-28,Poe,Brenda,Huntsville Item,999399,Cantu,Ivan,
+587,2024-02-28,Landers,Jamie,Dallas Morning News,999399,Cantu,Ivan,
 586,2023-11-16,Graczyk,Michael,Associated Press,999460,Renteria,David,
 586,2023-11-16,Poe,Brenda,Huntsville Item,999460,Renteria,David,
 586,2023-11-16,Sanchez,Carlos,Telemundo 48 El Paso,999460,Renteria,David,
