@@ -1,4 +1,10 @@
 execution_number,execution_date,journalist_name_last,journalist_name_rest,journalist_affiliation,inmate_number,inmate_name_last,inmate_name_rest,url
+593,2025-02-13,Graczyk,Michael,Associated Press,999523,Tabler,Richard,
+593,2025-02-13,Poe,Brenda,Huntsville Item,999523,Tabler,Richard,
+592,2025-02-05,Graczyk,Michael,Associated Press,999576,Nelson,Steven,
+592,2025-02-05,Clarridge,Emerson,Star-Telegram,999576,Nelson,Steven,
+592,2025-02-05,Poe,Brenda,Huntsville Item,999576,Nelson,Steven,
+592,2025-02-05,Landers,Jamie,Dallas Morning News,999576,Nelson,Steven,
 591,2024-10-01,Graczyk,Michael,Associated Press,999205,White,Garcia,
 591,2024-10-01,Poe,Brenda,Huntsville Item,999205,White,Garcia,
 591,2024-10-01,Hensley,Nicole,Houston Chronicle,999205,White,Garcia,
