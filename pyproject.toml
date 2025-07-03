@@ -1,9 +1,9 @@
 [project]
 name = "tx-death-row-media-witnesses"
 version = "0.1.0"
-description = "Add your description here"
+description = "Some Python to scrape a list of journalists who witness executions in Texas."
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.9"
 dependencies = [
     "bs4>=0.0.2",
     "requests>=2.32.4",
