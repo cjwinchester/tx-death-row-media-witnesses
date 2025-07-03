@@ -1,4 +1,10 @@
 execution_number,execution_date,journalist_name_last,journalist_name_rest,journalist_affiliation,inmate_number,inmate_name_last,inmate_name_rest,url
+595,2025-05-20,Graczyk,Michael,Associated Press,999586,Johnson,Matthew,
+595,2025-05-20,Poe,Brenda,Huntsville Item,999586,Johnson,Matthew,
+595,2025-05-20,Rogers,Chase,The Dallas Morning News,999586,Johnson,Matthew,
+594,2025-04-23,Graczyk,Michael,Associated Press,999498,Mendoza,Moises,
+594,2025-04-23,Poe,Brenda,Huntsville Item,999498,Mendoza,Moises,
+594,2025-04-23,Landers,Jamie,The Dallas Morning News,999498,Mendoza,Moises,
 593,2025-02-13,Graczyk,Michael,Associated Press,999523,Tabler,Richard,
 593,2025-02-13,Poe,Brenda,Huntsville Item,999523,Tabler,Richard,
 592,2025-02-05,Graczyk,Michael,Associated Press,999576,Nelson,Steven,
