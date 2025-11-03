@@ -1,5 +1,6 @@
 import csv
 from datetime import datetime
+from urllib.parse import urljoin
 
 import requests
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
@@ -45,7 +46,7 @@ with open(CSV_FILE, 'w', newline='', encoding='utf-8') as outfile:
 
         link = cells[1].a.get('href')
 
-        url = f'https://www.tdcj.state.tx.us/death_row/{link}' if link else ''
+        url = "" if not link else urljoin(URL, link)
 
         inmate_last = cells[2].text.strip()
         inmate_rest = cells[3].text.strip()
