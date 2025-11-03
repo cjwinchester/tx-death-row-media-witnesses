@@ -43,12 +43,9 @@ with open(CSV_FILE, 'w', newline='', encoding='utf-8') as outfile:
 
         execution_no = cells[0].text.strip()
 
-        link = cells[1].get('href')
+        link = cells[1].a.get('href')
 
-        url = ''
-
-        if link:
-            url = f'https://www.tdcj.state.tx.us/death_row/{link}'
+        url = f'https://www.tdcj.state.tx.us/death_row/{link}' if link else ''
 
         inmate_last = cells[2].text.strip()
         inmate_rest = cells[3].text.strip()
