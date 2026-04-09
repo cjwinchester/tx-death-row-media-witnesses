@@ -1,4 +1,8 @@
 execution_number,execution_date,journalist_name_last,journalist_name_rest,journalist_affiliation,inmate_number,inmate_name_last,inmate_name_rest,url
+598,2026-03-11,Graczyk,Michael,Associated Press,999593,Ricks,Cedric,http://www.tdcj.state.tx.us/death_row/dr_info/rickscedric.html
+598,2026-03-11,Castillo,Vania,Fox 4 Dallas-Fort Worth,999593,Ricks,Cedric,http://www.tdcj.state.tx.us/death_row/dr_info/rickscedric.html
+598,2026-03-11,Clarridge,Emerson,Fort Worth Star-Telegram,999593,Ricks,Cedric,http://www.tdcj.state.tx.us/death_row/dr_info/rickscedric.html
+598,2026-03-11,Webb,Pennylynn,Huntsville Item,999593,Ricks,Cedric,http://www.tdcj.state.tx.us/death_row/dr_info/rickscedric.html
 597,2026-01-28,Graczyk,Michael,Associated Press,999306,Thompson,Charles,http://www.tdcj.state.tx.us/death_row/dr_info/thompsoncharles.html
 597,2026-01-28,Arnold,Robert,KPRC,999306,Thompson,Charles,http://www.tdcj.state.tx.us/death_row/dr_info/thompsoncharles.html
 597,2026-01-28,Hensley,Nicole,Houston Chronicle,999306,Thompson,Charles,http://www.tdcj.state.tx.us/death_row/dr_info/thompsoncharles.html
@@ -61,7 +65,7 @@ execution_number,execution_date,journalist_name_last,journalist_name_rest,journa
 580,2023-02-01,Poe,Brenda,Huntsville Item,999536,Ruiz,Wesley,http://www.tdcj.state.tx.us/death_row/dr_info/ruizwesley.html
 579,2023-01-10,Graczyk,Michael,Associated Press,999189,Fratta,Robert,http://www.tdcj.state.tx.us/death_row/dr_info/frattarobert.jpg
 579,2023-01-10,White,Grace,Houston,999189,Fratta,Robert,http://www.tdcj.state.tx.us/death_row/dr_info/frattarobert.jpg
-579,2023-01-10,Hensley,Nicole,Houston Chronical,999189,Fratta,Robert,http://www.tdcj.state.tx.us/death_row/dr_info/frattarobert.jpg
+579,2023-01-10,Hensley,Nicole,Houston Chronicle,999189,Fratta,Robert,http://www.tdcj.state.tx.us/death_row/dr_info/frattarobert.jpg
 579,2023-01-10,Arnold,Robert,Houston,999189,Fratta,Robert,http://www.tdcj.state.tx.us/death_row/dr_info/frattarobert.jpg
 579,2023-01-10,Poe,Brenda,Huntsville Item,999189,Fratta,Robert,http://www.tdcj.state.tx.us/death_row/dr_info/frattarobert.jpg
 578,2022-11-16,Lozano,Juan,Associated Press,999507,Barbee,Stephen,http://www.tdcj.state.tx.us/death_row/dr_info/barbeestephen.html
@@ -1285,7 +1289,7 @@ execution_number,execution_date,journalist_name_last,journalist_name_rest,journa
 226,2000-08-09,Grant,Mary Lee,Associated Press,886,Roberson,Brian,http://www.tdcj.state.tx.us/death_row/dr_info/robersonbrian.jpg
 226,2000-08-09,Lyons,Michelle,Huntsville Item,886,Roberson,Brian,http://www.tdcj.state.tx.us/death_row/dr_info/robersonbrian.jpg
 226,2000-08-09,Sorge,Wayne,United Press International,886,Roberson,Brian,http://www.tdcj.state.tx.us/death_row/dr_info/robersonbrian.jpg
-226,2000-08-09,SToler,Steve,Dallas,886,Roberson,Brian,http://www.tdcj.state.tx.us/death_row/dr_info/robersonbrian.jpg
+226,2000-08-09,Stoler,Steve,Dallas,886,Roberson,Brian,http://www.tdcj.state.tx.us/death_row/dr_info/robersonbrian.jpg
 225,2000-07-26,Graczyk,Mike,Associated Press,837,Soria,Juan,http://www.tdcj.state.tx.us/death_row/dr_info/soriajuan.jpg
 225,2000-07-26,Lyons,Michelle,Huntsville Item,837,Soria,Juan,http://www.tdcj.state.tx.us/death_row/dr_info/soriajuan.jpg
 225,2000-07-26,Sorge,Wayne,United Press International,837,Soria,Juan,http://www.tdcj.state.tx.us/death_row/dr_info/soriajuan.jpg
