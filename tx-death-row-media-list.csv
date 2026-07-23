@@ -1,4 +1,12 @@
 execution_number,execution_date,journalist_name_last,journalist_name_rest,journalist_affiliation,inmate_number,inmate_name_last,inmate_name_rest,url
+600,2026-05-14,Graczyk,Michael,Associated Press,999506,Busby,Edward,http://www.tdcj.state.tx.us/death_row/dr_info/busbyedward.html
+600,2026-05-14,Landers,Jamie E.,The Dallas Morning News,999506,Busby,Edward,http://www.tdcj.state.tx.us/death_row/dr_info/busbyedward.html
+600,2026-05-14,Trow,Lisa,Huntsville Item,999506,Busby,Edward,http://www.tdcj.state.tx.us/death_row/dr_info/busbyedward.html
+599,2026-04-30,Graczyk,Michael,Associated Press,999549,Broadnax,James,http://www.tdcj.state.tx.us/death_row/dr_info/broadnaxjames.html
+599,2026-04-30,Landers,Jamie E.,The Dallas Morning News,999549,Broadnax,James,http://www.tdcj.state.tx.us/death_row/dr_info/broadnaxjames.html
+599,2026-04-30,Lopez,Rebecca,WFAA,999549,Broadnax,James,http://www.tdcj.state.tx.us/death_row/dr_info/broadnaxjames.html
+599,2026-04-30,Pickett,Steve,CBS News Texas,999549,Broadnax,James,http://www.tdcj.state.tx.us/death_row/dr_info/broadnaxjames.html
+599,2026-04-30,Trow,Lisa,Huntsville Item,999549,Broadnax,James,http://www.tdcj.state.tx.us/death_row/dr_info/broadnaxjames.html
 598,2026-03-11,Graczyk,Michael,Associated Press,999593,Ricks,Cedric,http://www.tdcj.state.tx.us/death_row/dr_info/rickscedric.html
 598,2026-03-11,Castillo,Vania,Fox 4 Dallas-Fort Worth,999593,Ricks,Cedric,http://www.tdcj.state.tx.us/death_row/dr_info/rickscedric.html
 598,2026-03-11,Clarridge,Emerson,Fort Worth Star-Telegram,999593,Ricks,Cedric,http://www.tdcj.state.tx.us/death_row/dr_info/rickscedric.html
